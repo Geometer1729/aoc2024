@@ -1,0 +1,4 @@
+(executables
+ (public_names d1 d2)
+ (names d1 d2)
+ (libraries unix base stdio))
